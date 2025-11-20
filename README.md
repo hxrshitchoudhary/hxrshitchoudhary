@@ -1,4 +1,4 @@
-# Hi there ~ 👋
+# Hey there ~ 👋
 
 I'm **Harshit Choudhary**, a passionate developer exploring the modern web stack based in India.
 
@@ -6,9 +6,9 @@ I am actively learning how to build better user interfaces by experimenting with
 
 🚀 **Currently working on:**(https://hxrshit.lol)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=brightgreen&style=flat-square&label=Profile+views)
+![Profile Views](https://komarev.com/ghpvc/?username=hxrshitchoudhary&color=brightgreen&style=flat-square&label=Profile+views)
 
-### ⚡ Tech I have worked with
+### ⚡ My Current Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
