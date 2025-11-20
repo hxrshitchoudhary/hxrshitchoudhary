@@ -8,7 +8,7 @@ I am actively learning how to build better user interfaces by experimenting with
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hxrshitchoudhary&color=brightgreen&style=flat-square&label=Profile+views)
 
-### ⚡ My Current Tech Stack
+### 💻 My Current Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
