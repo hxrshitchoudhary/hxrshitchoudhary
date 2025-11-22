@@ -1,6 +1,6 @@
-# Hey there ~ 👋
+# Hello  ~ 👋
 
-I'm **Harshit Choudhary**, a passionate developer exploring the modern web stack based in India.
+I'm **Harshit Choudhary**, a passionate developer exploring the modern web stack.
 
 I am actively learning how to build better user interfaces by experimenting with new frameworks and design patterns.
 
